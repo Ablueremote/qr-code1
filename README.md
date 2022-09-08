@@ -1,7 +1,3 @@
-# Frontend Mentor - QR code component solution
-
-This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
-
 ## Table of contents
 
 - [Overview](#overview)
@@ -22,8 +18,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://github.com/Ablueremote/qr-code1
+- Live Site URL: https://github.com/Ablueremote/qr-code1.git 
 
 ## My process
 
@@ -37,21 +33,11 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - Mobile-first workflow
 
 ### What I learned
-
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
-
-To see how you can add code snippets, see below:
-
-```html
-<h1>Some HTML code I'm proud of</h1>
-```
-```css
-.proud-of-this-css {
+  <-- Importing google fonts 2 steps-->
   @font-face {
     font-family: Outfit;
     src: url(https://fonts.google.com/specimen/Outfit);
 }
-```
 .container {
     background-color: hsl(0, 0%, 100%);
     display: grid;
@@ -65,7 +51,6 @@ To see how you can add code snippets, see below:
 
 ## Author
 
-- Website - [Antonio](https://www.no-website-yet-lol.com)
 - Twitter - [@ablueremote](https://www.twitter.com/ablueremote)
 
 
