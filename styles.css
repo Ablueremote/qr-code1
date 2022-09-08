@@ -1,0 +1,37 @@
+body {
+    background-color: hsl(212, 45%, 89%);
+}
+.container {
+    background-color: hsl(0, 0%, 100%);
+    display: grid;
+    width: 350px;
+    height: 550px;
+    margin: auto;
+    border-radius: 20px;
+    text-align: center;
+    margin-top: 10em;
+}
+img {
+    max-width: 100%;
+        max-height: 315px;
+        border-radius: 10px;
+        margin-top: 1em;
+}
+@font-face {
+    font-family: Outfit;
+    src: url(https://fonts.google.com/specimen/Outfit);
+}
+div {
+    font-family: "Outfit", sans-serif;
+}
+h2 {
+    font-weight: 700;
+    color: hsl(218, 44%, 22%);
+}
+p {
+    font-weight: 400;
+    color: hsl(220, 15%, 55%);
+}
+div.image {
+    height: 300px;
+}
