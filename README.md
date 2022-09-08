@@ -82,3 +82,4 @@ Use this section to outline areas that you want to continue focusing on in futur
 ## Acknowledgments
 
 I would like to give a special thank you to Frontend Mentor for being free for people like me looking to learn how to code!
+#qr-code
