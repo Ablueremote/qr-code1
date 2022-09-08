@@ -19,7 +19,7 @@
 ### Links
 
 - Solution URL: https://github.com/Ablueremote/qr-code1
-- Live Site URL: https://github.com/Ablueremote/qr-code1.git 
+- Live Site URL: https://ablueremote.github.io/qr-code1/
 
 ## My process
 
