@@ -24,6 +24,22 @@
 ## My process
 
 - I kept my workflow as simple as possible (from top to bottom). Starting with the background color, I then opened a container where my elements where going to go in. After sizing my container roughly, I inserted my image(s) and sized as close to optimal as i could. From there, my text needed some slight modifiations such as spacing, font-family and color. Ive changed them to match and added spacing. With all my content in place, I adjusted some more sizing to taste.
+**UPDATES**
+--  -removed all height (px) properrties from all css
+    -removed div class = text (condense/not needed)
+    -changed .container from grid-display to flex-display, added flex direction-column
+    -added padding inside  .container for spacing new flex
+    ** Thanks to Miranlegin on frontend mentor for suggestions, using flex in 3 commands centered my element and removed all height properties i had before **
+
+ -- -added main tag
+    - replaced div with article tag
+    - added alt"" to img with definition
+    - removed div element from img
+    - got rid of all margin properties in css (replaced with flex properties & padding)
+    -added min-height to body
+    - replaced px with rem on elements
+    ** Thanks to denielden on frontend mentor for suggestions, the accessibility changes are vital and i noted moving forward to include where possible.
+      Going to include rem, vh, vth instead of px (easier to understand).**   
 
 ### Built with
 
