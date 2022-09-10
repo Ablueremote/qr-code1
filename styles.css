@@ -1,21 +1,21 @@
 body {
     background-color: hsl(212, 45%, 89%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
 }
 .container {
     background-color: hsl(0, 0%, 100%);
-    display: grid;
+    display: flex;
+    flex-direction: column;
     width: 350px;
-    height: 550px;
-    margin: auto;
     border-radius: 20px;
     text-align: center;
-    margin-top: 10em;
+    padding: 1rem;
 }
 img {
-    max-width: 100%;
-        max-height: 315px;
         border-radius: 10px;
-        margin-top: 1em;
 }
 @font-face {
     font-family: Outfit;
@@ -31,7 +31,4 @@ h2 {
 p {
     font-weight: 400;
     color: hsl(220, 15%, 55%);
-}
-div.image {
-    height: 300px;
 }
