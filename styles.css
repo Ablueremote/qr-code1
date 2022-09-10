@@ -4,6 +4,7 @@ body {
     justify-content: center;
     align-items: center;
     min-height: 100vh;
+    flex-direction: column;
 }
 .container {
     background-color: hsl(0, 0%, 100%);
@@ -24,9 +25,10 @@ img {
 div {
     font-family: "Outfit", sans-serif;
 }
-h2 {
+h1 {
     font-weight: 700;
     color: hsl(218, 44%, 22%);
+    font-size: 1.9rem;
 }
 p {
     font-weight: 400;
