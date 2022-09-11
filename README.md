@@ -14,7 +14,8 @@
 ### Overview 
 ### Screenshot
 
-![QR-code-finished-example.jpeg]
+![QR-code-finished-example](https://user-images.githubusercontent.com/95522156/189535641-ccdab226-9693-4a4b-a2d1-d32ad593a10b.jpeg)
+
 
 ### Links
 
